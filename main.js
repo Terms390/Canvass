@@ -7,7 +7,7 @@ function draw() {
   console.log(ctx);
 }
 
-draw();
+draw());
 
 function play() {
   const video = document.getElementById("webcam");
